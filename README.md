@@ -31,3 +31,5 @@
 ## Results
 ![pre_spread3](https://user-images.githubusercontent.com/39005000/198408529-34530c3c-f9d2-458c-80ad-098d9a9f2757.png)
 ![lasttime4](https://user-images.githubusercontent.com/39005000/198384697-f07916da-bfa1-47e1-a1e4-f597c7986ffe.png)
+### After Optimization
+![last3](https://user-images.githubusercontent.com/39005000/198410837-a4dcc6aa-9d84-4830-bd19-7368c2c28c55.png)
