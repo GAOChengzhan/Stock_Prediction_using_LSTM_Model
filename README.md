@@ -15,9 +15,18 @@
 ![image](https://user-images.githubusercontent.com/39005000/198384542-33d53b84-57a3-4ec1-995c-cd725859a7e2.png)
 
 ## Read Data
+![image](https://user-images.githubusercontent.com/39005000/198410305-44ffcdd0-da7f-4472-9587-29ce414564dd.png)
 
 ## Build LSTM Model
+![image](https://user-images.githubusercontent.com/39005000/198410337-17dd1291-9539-45fe-b667-72da213bb84d.png)
 
+## Define Train and Test Loop
+![image](https://user-images.githubusercontent.com/39005000/198410382-86feea53-9c9b-491d-bd3e-22ffa506d6ea.png)
+
+## Predict
+![image](https://user-images.githubusercontent.com/39005000/198410428-fd8a6374-5c54-40f6-82dc-dd2a75ac52d4.png)
+
+## Use Simulated Annealing Algorithm to optimize the Weights in LSTM Network
 
 ## Results
 ![pre_spread3](https://user-images.githubusercontent.com/39005000/198408529-34530c3c-f9d2-458c-80ad-098d9a9f2757.png)
